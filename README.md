@@ -1,7 +1,5 @@
 # AWS-DevSecOps-Project-Lab
 
-# AWS EKS - Elastic Kubernetes Service - Masterclass
-
 <h1>AWS-EKS Home Lab</h1>
 
 <h2>Description</h2>
@@ -43,13 +41,13 @@ spec:
 ```
 <br />
 
-<h2>Adding Pictures (Using https://imgur.com/a/VOZ2bZi)</h2>
+<h3>Adding Pictures (Using https://imgur.com/a/VOZ2bZi)</h3>
 
   <p align="center">
 Cluster networking on AWS <br/>
-<img scr="https://imgur.com/a/VOZ2bZi" height="80" width="80" alt="Cluster networking on AWS: Step" />
-<br />
 
+[![Image](https://github.com/fataou1maxwell/AWS-DevSecOps-Project-Lab/blob/main/aws-eks%20system.png "Cluster networking on AWS")]()
+<br />
 
 ## Course Modules
 
