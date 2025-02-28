@@ -2,8 +2,6 @@
 
 # AWS EKS - Elastic Kubernetes Service - Masterclass
 
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
-
 <h1>AWS-EKS Home Lab</h1>
 
 <h2>Description</h2>
@@ -45,12 +43,12 @@ spec:
 ```
 <br />
 
-### Adding Pictures (Using https://imgur.com/a/VOZ2bZi)
+<h2>Adding Pictures (Using https://imgur.com/a/VOZ2bZi)</h2>
 
-<p align="center">
+  <p align="center">
 Cluster networking on AWS <br/>
-<img scr="https://imgur.com/a/VOZ2bZi.png" height="80" width="80" alt="Cluster networking on AWS: Step "/>
-<br/>
+<img scr="https://imgur.com/a/VOZ2bZi" height="80" width="80" alt="Cluster networking on AWS: Step" />
+<br />
 
 
 ## Course Modules
